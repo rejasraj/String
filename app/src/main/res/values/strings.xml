@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">String</string>
+    <string name="hello">Hello TJ!</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="first">DO NOT PRESS!</string>
+    <string-array name="messages">
+        <item>DO NOT PRESS!</item>
+        <item>Hey! DO NOT PRESS!</item>
+        <item>Are you not going to listen to me?</item>
+        <item>Fine. What if I told you a story?</item>
+        <item>There once was a deliveryman who came to deliver a box.</item>
+        <item>He rang the doorbell, and they came to collect the box.</item>
+        <item>Then, they carefully opened the box.</item>
+        <item>In the box they saw something covered in bubble wrap.</item>
+        <item>After carefully removing the wrap, they saw a big button.</item>
+        <item>On the top of the button there was some large text, which said,</item>
+    </string-array>
+</resources>
